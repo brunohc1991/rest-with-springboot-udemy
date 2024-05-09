@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.bruno.Greeting;
+import br.com.bruno.model.Greeting;
 
 @RestController
 public class GreetingController {

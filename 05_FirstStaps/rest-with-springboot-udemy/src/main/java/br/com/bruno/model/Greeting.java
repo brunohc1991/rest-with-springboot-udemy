@@ -1,4 +1,4 @@
-package br.com.bruno;
+package br.com.bruno.model;
 
 public class Greeting {
 	private final long id;
